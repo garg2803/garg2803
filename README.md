@@ -1,16 +1,31 @@
-## Hi there 👋
+# Amit Garg
+### AI-Powered Contact Center Architect | CCaaS | GenAI | AI Agents
 
-<!--
-**garg2803/garg2803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Irving, Texas | 20+ Years Enterprise Technology Experience
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 AI & Automation Portfolio
+
+### 🔹 GlobalEdge Market Intelligence RAG Pipeline
+Financial intelligence assistant for equity brokers using RAG
+- **Tech:** n8n | Pinecone | OpenAI GPT-4o-mini | LLM-as-a-Judge
+- **Results:** 4.4/5 avg evaluation score across 15 test cases
+- **3 configs tested:** Baseline | Precision | Breadth
+- [View Project →](https://github.com/garg2803/globaledge-rag-pipeline)
+
+### 🔹 ShopNest Support Ticket Intelligence
+AI-powered customer support automation with dual LLM evaluation
+- **Tech:** n8n | GPT-4 | 10-node pipeline | LLM-as-a-Judge
+- [View Project →](https://github.com/garg2803/support-ticket-intelligence)
+
+---
+
+## 🛠️ Tech Stack
+n8n | Pinecone | OpenAI | Avaya Infinity | Amazon Connect
+Salesforce | Verint WFM | ITIL Expert | CSM | CSPO
+
+---
+
+## 📫 Connect
+[LinkedIn]https://www.linkedin.com/in/amit-garg02/
