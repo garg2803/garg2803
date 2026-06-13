@@ -21,6 +21,13 @@ AI-powered customer support automation with dual LLM evaluation
 
 ---
 
+### 🤖 A2A Customer Support Ticket Router (Enhanced)
+Automated customer support pipeline with sentiment analysis and escalation routing
+- **Tech:** n8n | Google Gemini 2.5-flash | 6-agent pipeline | LLM-as-Judge | A2A Protocol
+- [View Project →](https://github.com/garg2803/A2A-support-ticket-router)
+
+---
+
 ## 🛠️ Tech Stack
 n8n | Pinecone | OpenAI | Avaya Infinity | Amazon Connect
 Salesforce | Verint WFM | ITIL Expert | CSM | CSPO
